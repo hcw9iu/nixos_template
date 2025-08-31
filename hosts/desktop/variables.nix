@@ -3,7 +3,7 @@
 
   config.var = {
     hostname = "nixos";
-    username = "hcw";
+    username = "MD531";
     configDirectory = "/home/" + config.var.username
       + "/.config/nixos"; # The path of the nixos configuration directory
 
@@ -14,10 +14,10 @@
     defaultLocale = "en_US.UTF-8";
     extraLocale = "zh_TW.UTF-8";
 
-    git = {
-      username = "hcw9iu";
-      email = "hcw.chiu@gmail.com";
-    };
+    #git = {
+      #username = "<username>";
+      #email = "<email>";
+    #};
 
     autoUpgrade = false;
     autoGarbageCollector = false;
