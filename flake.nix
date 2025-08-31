@@ -24,12 +24,12 @@
     };
 
     nvidia-src = {
-      url = "github:nixos/nixpkgs/nixos-unstable";
+      url = "github:nixos/nixpkgs/nixos-unstable/88a1d76bbdda34a179d386ebeb82dd4527d5a3aa";
       flake = false;
     };
 
     kernel-src = {
-      url = "github:nixos/nixpkgs/nixos-unstable";
+      url = "github:nixos/nixpkgs/nixos-unstable/88a1d76bbdda34a179d386ebeb82dd4527d5a3aa";
       flake = false;
     };
 
