@@ -9,7 +9,7 @@
     #../../home/programs/qutebrowser
     ../../home/programs/shell
     ../../home/programs/fetch
-    ../../home/programs/git
+    #../../home/programs/git
     #../../home/programs/spicetify
     #../../home/programs/nextcloud
     ../../home/programs/yazi
